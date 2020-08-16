@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Cloud Resume! https://cloudresumechallenge.dev/
 - 🌱 I’m currently learning ... My Resume Domain! https://www.muckitymuck.com/
-- 👯 I’m looking to collaborate on ...  Python Projects!
+- 👯 I’m looking to collaborate on ...  Cloud Projects!
 - 🤔 I’m looking for help with ... Networking! 
 - 📫 How to reach me: ... LinkedIn! https://www.linkedin.com/in/andrewsgoldstein/
