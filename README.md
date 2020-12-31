@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ...Bug Tracker: https://www.muckitymuck.com/bugtracker/
-<?-- - 🌱 I’m currently learning ... AWS Development: https://acloudguru.com/blog/engineering/cloudguruchallenge-python-aws-etl
+<!-- - 🌱 I’m currently learning ... AWS Development: https://acloudguru.com/blog/engineering/cloudguruchallenge-python-aws-etl
 -->
 - 👯 I’m looking to collaborate on ...  HACKING!
 - 🤔 I’m looking for help with ... Networking! 
