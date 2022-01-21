@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **muckitymuck/muckitymuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
--
 <!-- - 🌱 I’m currently learning ... AWS Development: https://acloudguru.com/blog/engineering/cloudguruchallenge-python-aws-etl
 -->
-- 👯 I’m looking to collaborate on ...  Cloud Solutions
+- 🔭 I’m currently working on ... #100DaysofCode
+- 💬 Ask me about ... AWS Engineering
+- 👯 I’m looking to collaborate on ...  Cool Projects!
 - 🤔 I’m looking for help with ... Networking! 
 - 📫 How to reach me: ... LinkedIn! https://www.linkedin.com/in/andrewsgoldstein/
                           Twitter! https://twitter.com/andygoldstein00
