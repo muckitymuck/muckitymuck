@@ -104,3 +104,20 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </tbody></table>
+<p align="center" dir="auto">
+  <a href="https://www.muckitymuck.com/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/6028855d0293465fee09b993185cb5feb85cfa027a14a79df3a9de72e9b5451c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d7265616374266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=WEBSITE&amp;color=23555f&amp;style=plastic&amp;logo=react&amp;logo-color=white" style="max-width: 100%;">
+  </a>
+  <a href="https://www.linkedin.com/in/andrewsgoldstein/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/aa0e268b31cb26cfc48e67f7014a9be187877bf7dafe4f46cf4e6f076e1af1ac/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4c494e4b45442d494e26636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d6c696e6b6564696e266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=LINKED-IN&amp;color=cdf998&amp;style=plastic&amp;logo=linkedin&amp;logo-color=white" style="max-width: 100%;">
+  </a>
+  <a href="https://twitter.com/andygoldstein00" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/bd2c86abccd84dca46365117309abb7cbf82e3cc0e4bd0895b5d39e8fce1c3f4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5457495454455226636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d74776974746572266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=TWITTER&amp;color=23555f&amp;style=plastic&amp;logo=twitter&amp;logo-color=white" style="max-width: 100%;">
+  </a>
+  <a href="https://angel.co/u/andrew-goldstein-11" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/bad521e58804d7c5f9b7b158aa5bb146769946fb0d43ae7f734ee34924af826b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d414e47454c2d4c49535426636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d616e67656c6c697374266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=ANGEL-LIST&amp;color=cdf998&amp;style=plastic&amp;logo=angellist&amp;logo-color=white" style="max-width: 100%;">
+  </a>
+  <a href="https://www.muckitymuck.com/AndrewGoldstein-resume%202022.4.NP.pdf" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/ffdea566de5e180f7d8f8f4ec7a4616db2b03ebdde2bcb42c0fe23300c829e91/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d524553554d4526636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d7265616374266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=RESUME&amp;color=23555f&amp;style=plastic&amp;logo=react&amp;logo-color=white" style="max-width: 100%;">
+  </a>
+</p>
