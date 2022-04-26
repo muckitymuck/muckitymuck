@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... AWS Engineering<br />
 - 👯 I’m looking to collaborate on ...  Cool Projects!<br />
 - 🤔 I’m looking for help with ... Networking! <br />
-- 📫 How to reach me ... Email! andrewgoldstein@gmail.com
+- 📫 How to reach me ... Email! andrewgoldstein@gmail.com ;;;
                           Twitter! https://twitter.com/andygoldstein00<br />
 - 📝 I regularly write articles on ... https://dev.to/muckitymuck<br />
 - 👨‍💻 All of my projects are available ... https://www.muckitymuck.com/<br />
