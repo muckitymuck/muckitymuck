@@ -123,5 +123,4 @@ Here are some ideas to get you started:
   <a href="https://www.muckitymuck.com/AndrewGoldstein-resume%202022.4.NP.pdf" rel="nofollow">
       <img src="https://camo.githubusercontent.com/ffdea566de5e180f7d8f8f4ec7a4616db2b03ebdde2bcb42c0fe23300c829e91/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d524553554d4526636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d7265616374266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=RESUME&amp;color=23555f&amp;style=plastic&amp;logo=react&amp;logo-color=white" style="max-width: 100%;">
   </a>
-  <img src="[https://github.com/muckitymuck/muckitymuck/raw/master/images/Backend.gif](https://github.com/muckitymuck/MVC-Lecture/blob/main/MVCLecture.gif)" width="100%" alt="Backend Samples" style="max-width: 100%;">
 </p>
