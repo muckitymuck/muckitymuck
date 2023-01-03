@@ -90,19 +90,19 @@ Here are some ideas to get you started:
     <td width="50%" valign="top">
       <h3 align="center" dir="auto"><a id="user-content-backend" class="anchor" aria-hidden="true" href="#backend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Backend Samples</h3>
         <br>
-        <a href="https://backendportfolio.netlify.app/" rel="nofollow">
-          <img src="https://github.com/muckitymuck/muckitymuck/raw/master/images/Backend.gif" width="100%" alt="Backend Samples" style="max-width: 100%;">
+        <a href="https://githubissuesviewer.netlify.app/" rel="nofollow">
+          <img src="https://github.com/muckitymuck/muckitymuck/raw/master/images/issueviewer.gif" width="100%" alt="Github issue viewer Samples" style="max-width: 100%;">
         </a>
         <br>
         <p align="center" dir="auto">
-  <a href="https://github.com/muckitymuck/backendPortfolio">
+  <a href="https://github.com/muckitymuck/repo-issue-viewer">
     <img src="https://camo.githubusercontent.com/95e3aac44e8f136da088962c9b8ba29ce570117c20df4d39dce11bbb8c3ff106/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5245504f26636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d676974687562266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=REPO&amp;color=23555f&amp;style=plastic&amp;logo=github&amp;logo-color=white" style="max-width: 100%;">
   </a>
-  <a href="https://backendportfolio.netlify.app/" rel="nofollow">
+  <a href="https://githubissuesviewer.netlify.app/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/e6efe3d3e99693e578797485a4973c0efb93f435001dad1f75001c0d3a130aea/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=WEBSITE&amp;color=cdf998&amp;style=plastic&amp;logo=wordpress&amp;logo-color=white" style="max-width: 100%;">
   </a>
       </p>
-        <p dir="auto"><strong>HTML5, CSS3, &amp; Javascript</strong> - A site to summarize examples of past Backend Projects I completed for myself and paid clients!</p>
+        <p dir="auto"><strong>HTML5, BootStrap, API, &amp; Javascript</strong> - A site to showcase skills in API and UI manipulation.</p>
     </td>
   </tr>
 </tbody></table>
