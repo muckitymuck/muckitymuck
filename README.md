@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <!-- - 🌱 I’m currently learning ... AWS Development: https://acloudguru.com/blog/engineering/cloudguruchallenge-python-aws-etl
 -->
 <p><a target="_blank" rel="noopener noreferrer" href="https://www.muckitymuck.com/images/3386851.jpg"><img src="https://www.muckitymuck.com/images/3386851.jpg" width="100%" data-canonical-src="https://www.muckitymuck.com/images/3386851.jpg" style="max-width: 100%;"></a></p>
-- 🔭 I’m currently working on ... #100DaysofCode<br />
+- 🔭 I’m currently working on ... OpenAI and Couchbase<br />
 - 💬 Ask me about ... AWS Engineering<br />
-- 👯 I’m looking to collaborate on ...  Cool Projects!<br />
-- 🤔 I’m looking for help with ... Networking! <br />
+- 👯 I’m looking to collaborate on ...  AI/ML<br />
+- 🤔 I’m looking for help with ... React<br />
 - 📫 How to reach me ... Twitter! https://twitter.com/andygoldstein00<br />
 - 📝 I regularly write articles on ... https://dev.to/muckitymuck<br />
 - 👨‍💻 All of my projects are available ... https://www.muckitymuck.com/<br />
